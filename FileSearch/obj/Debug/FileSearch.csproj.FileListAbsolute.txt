@@ -1,0 +1,10 @@
+C:\Users\guipb\source\repos\FileSearch\FileSearch\bin\Debug\FileSearch.exe.config
+C:\Users\guipb\source\repos\FileSearch\FileSearch\bin\Debug\FileSearch.exe
+C:\Users\guipb\source\repos\FileSearch\FileSearch\bin\Debug\FileSearch.pdb
+C:\Users\guipb\source\repos\FileSearch\FileSearch\obj\Debug\FileSearch.csprojAssemblyReference.cache
+C:\Users\guipb\source\repos\FileSearch\FileSearch\obj\Debug\FileSearch.ListScreen.resources
+C:\Users\guipb\source\repos\FileSearch\FileSearch\obj\Debug\FileSearch.Properties.Resources.resources
+C:\Users\guipb\source\repos\FileSearch\FileSearch\obj\Debug\FileSearch.csproj.GenerateResource.cache
+C:\Users\guipb\source\repos\FileSearch\FileSearch\obj\Debug\FileSearch.csproj.CoreCompileInputs.cache
+C:\Users\guipb\source\repos\FileSearch\FileSearch\obj\Debug\FileSearch.exe
+C:\Users\guipb\source\repos\FileSearch\FileSearch\obj\Debug\FileSearch.pdb
